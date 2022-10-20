@@ -3,6 +3,7 @@
 body{
     background: rgb(70, 142, 236);
     font: normal 15pt Arial;
+    text-align: center;
 }
 
 header{
@@ -24,7 +25,6 @@ footer{
     text-align: center;
     font-style: italic;
 }
-
-#corpo{
-    text-align: center;
+div{
+    padding: 8px;
 }
